@@ -44,6 +44,8 @@ git clone https://github.com/khanhan0603/ungdungquanlybancafe.git
 - Ứng dụng không sử dụng hệ quản trị CSDL
 - Dữ liệu được lưu bằng file nhị phân (.dat, .bin, …)
 - File dữ liệu sẽ được:
-Tự động tạo khi chạy chương trình lần đầu
-Lưu trong thư mục của ứng dụng (hoặc thư mục cấu hình sẵn)
-Không cần cấu hình database
+- Tự động tạo khi chạy chương trình lần đầu
+- Lưu trong thư mục của ứng dụng (hoặc thư mục cấu hình sẵn)
+- Không cần cấu hình database
+### 4. Chạy chương trình
+- Nhấn F5 hoặc nút Start trong Visual Studio
