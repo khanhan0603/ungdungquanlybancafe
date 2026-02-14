@@ -3,7 +3,8 @@
 ## Giới thiệu
 Đây là **ứng dụng quản lý bán cà phê** được xây dựng bằng **C# (WinForms)**, phục vụ cho việc quản lý hoạt động bán hàng tại quán cà phê, bao gồm:
 
-- Quản lý sản phẩm (đồ uống)
+- Quản lý thông tin nhân viên
+- Quản lý loại sản phẩm, sản phẩm (đồ uống)
 - Quản lý hóa đơn
 - Quản lý chi tiết hóa đơn
 - Tính toán tổng tiền
